@@ -1,0 +1,66 @@
+  
+[{
+"userId" : 1, 
+"day":"2025-06-30",
+"MachineTurnOnCount": 25,
+"MachineShutDownCount": 24,
+"MachineWorkingTime" : "04:25:59",
+"connexionTime": "01:45:14" 
+},
+{
+"userId" : 2,
+"day":"2025-06-29",
+"MachineTurnOnCount": 21,
+"MachineShutDownCount": 20,
+"MachineWorkingTime" : "02:25:59",
+"connexionTime": "01:15:14" 
+},
+{
+"userId" : 3,
+"day":"2025-07-02",
+"MachineTurnOnCount": 10,
+"MachineShutDownCount": 10,
+"MachineWorkingTime" : "10:25:59",
+"connexionTime": "03:15:14" 
+},
+{
+"userId" : 4,
+"day":"2025-07-02",
+"MachineTurnOnCount": 21,
+"MachineShutDownCount": 20,
+"MachineWorkingTime" : "02:25:59",
+"connexionTime": "01:15:14" 
+},
+{
+"userId" : 5, 
+"day":"2025-06-30",
+"MachineTurnOnCount": 25,
+"MachineShutDownCount": 24,
+"MachineWorkingTime" : "04:25:59",
+"connexionTime": "01:45:14" 
+},
+{
+"userId" : 6,
+"day":"2025-06-29",
+"MachineTurnOnCount": 21,
+"MachineShutDownCount": 20,
+"MachineWorkingTime" : "02:25:59",
+"connexionTime": "01:15:14" 
+},
+{
+"userId" : 7,
+"day":"2025-07-02",
+"MachineTurnOnCount":10,
+"MachineShutDownCount": 10,
+"MachineWorkingTime" : "10:25:59",
+"connexionTime": "03:15:14" 
+},
+{
+"userId" : 8,
+"day":"2025-07-02",
+"MachineTurnOnCount": 30,
+"MachineShutDownCount": 30,
+"MachineWorkingTime" : "02:25:59",
+"connexionTime": "01:15:14" 
+}
+] 
