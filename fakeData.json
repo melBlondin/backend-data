@@ -1,5 +1,6 @@
   
-[{
+[
+  {
 "userId" : 1, 
 "day":"2025-06-30",
 "MachineTurnOnCount": 25,
